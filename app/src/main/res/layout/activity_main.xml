@@ -1,0 +1,9 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:name="com.awesome.alikhundmiri.PopularMovie_1.MainActivityFragment"
+    tool:layout="@layout/fragment_main_activity"/>
+
+
